@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 概要
 
-## Getting Started
+こんにちは、私の名前はカワジです。私はWebエンジニアとして活動しています。
 
-First, run the development server:
+## スキルセット
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Next.js
+- Firebase
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+この組み合わせが大好きで、よく採用するアーキテクチャです。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+その他にも、Python、Javaなど、いろいろな言語、サービスの実務経験があります。
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## ブランディング
 
-## Learn More
+私はエンジニアとしての成長と学習に重きを置いています。新しい技術やツールを学び、それを仕事に活かすことで、自己成長を達成し、ビジネスに貢献しています。
 
-To learn more about Next.js, take a look at the following resources:
+また、私はエンジニアコミュニティへの貢献も重視しています。私の知識や経験を共有し、他のエンジニアの成長を支援することで、コミュニティ全体の発展に貢献しています。
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 更新計画
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+私のポートフォリオは3ヶ月に一度更新されます。最新の情報を提供するために、定期的に内容を見直し、必要に応じて更新を行います。
 
-## Deploy on Vercel
+## 個人的な趣味や興味
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- お笑い
+- ジャズ
+- ゲーム
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## コンタクト
+
+私に連絡を取りたい場合は、
+- twitterのDM：
+- InstagramのDM：
+
+をご利用ください。
+
+
+# 設計
+## ポートフォリオサイトに必要なページ
+
+1. ホームページ：サイトのメインページで、あなたの基本情報や最新の更新情報を表示します。
+
+2. プロフィールページ：あなたの詳細な情報を表示します。スキルセット、経歴、趣味などの情報が含まれます。
+
+3. プロジェクトページ：あなたがこれまでに行ったプロジェクトの一覧を表示します。各プロジェクトの詳細ページへのリンクも提供します。
+
+4. プロジェクト詳細ページ：特定のプロジェクトの詳細情報を表示します。プロジェクトの説明、使用技術、スクリーンショット、リンクなどの情報が含まれます。
+
+5. ブログページ：あなたのブログ記事の一覧を表示します。各記事の詳細ページへのリンクも提供します。
+
+6. ブログ記事詳細ページ：特定のブログ記事の詳細情報を表示します。記事の内容、投稿日、タグなどの情報が含まれます。
+
+7. コンタクトページ：あなたへの連絡方法を表示します。連絡フォームやSNSへのリンクが含まれます。
+
+これらのページは、ポートフォリオサイトの基本的な構成を形成します。必要に応じて、他のページを追加することも可能です。
