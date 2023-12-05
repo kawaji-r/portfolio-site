@@ -11,7 +11,7 @@ export default function Navigation({
     <nav>
       <Ul>
         {items.map(item => (
-          <Li>
+          <Li key={item.href}>
             <A href={item.href}>{item.text}</A>
           </Li>
         ))}
