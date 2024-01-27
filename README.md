@@ -1,8 +1,12 @@
 # 参考サイト
 
-- https://hodalab.com/portfolio/
+- https://hodalab.com/portfolio/  
+   書く内容・レイアウトの参考
+- https://wellnesslab-report.jp/cs/toipa/  
+   レイアウトの参考
 - https://flowrift.com/c/full-page/6tdav?view=preview
 - https://www.resume.id/
+- https://sucrer-sannomiya.com/
 
 # 概要
 
